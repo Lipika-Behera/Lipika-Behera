@@ -36,15 +36,15 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
 
 *   **PHP Development (August 2020 – August 2024):**
     *   Spearheaded the development and maintenance of high-performance web applications using PHP and Laravel, contributing to **[Quantifiable achievement, e.g., a 15% improvement in page load times, or handling 20% more concurrent users]**.
-    *   Designed and implemented robust RESTful APIs to facilitate seamless data exchange, serving **[Number, e.g., over 50]** unique API endpoints for various applications.
-    *   Optimized database queries and schema designs for MySQL/PostgreSQL, resulting in **[Quantifiable achievement, e.g., a 20% reduction in query execution time or a 30% improvement in data retrieval speed]**.
-    *   Implemented and maintained comprehensive unit and integration tests using PHPUnit, significantly improving code quality and reducing production bugs by **[Quantifiable achievement, e.g., 30%]**.
+    *   Designed and implemented robust RESTful APIs to facilitate seamless data exchange, serving unique API endpoints for various applications.
+    *   Optimized database queries and schema designs for MySQL/PostgreSQL, resulting in **[ 20% reduction in query execution time or a 30% improvement in data retrieval speed]**.
+    *   Implemented and maintained comprehensive unit and integration tests using PHPUnit, significantly improving code quality and reducing production bugs by 30%.
     *   Managed code repositories using Git, performing regular code reviews, and ensuring adherence to coding standards and best practices across the team.
-    *   Integrated critical third-party services and APIs, such as **[e.g., payment gateways like Stripe/PayPal, or CRM systems like Salesforce]**, enhancing core application functionality.
+    *   Integrated critical third-party services and APIs, enhancing core application functionality.
 
 *   **Java Spring Boot Development (August 2024 – Present):**
-    *   Developed and maintained robust back-end services and RESTful APIs using Java and Spring Boot for **[Specific project or module, e.g., internal microservices, new product features, or a new client platform]**.
-    *   Implemented complex business logic and data persistence layers with Spring Data JPA and Hibernate for **[Specific purpose, e.g., managing new data models, integrating with existing enterprise systems]**.
+    *   Developed and maintained robust back-end services and RESTful APIs using Java and Spring Boot for **[internal microservices, new product features, or a new client platform]**.
+    *   Implemented complex business logic and data persistence layers with Spring Data JPA and Hibernate for **[Specific purpose, managing new data models, integrating with existing enterprise systems]**.
     *   Designed and managed scalable database schemas in **[Specific Database, e.g., MySQL/PostgreSQL]** for various application modules, ensuring data integrity and optimal performance.
     *   Utilized Maven for efficient project dependency management and build automation on Java-based projects.
     *   Ensured high code quality through rigorous unit testing with JUnit and mock objects for Spring Boot applications, contributing to a stable and reliable codebase.
