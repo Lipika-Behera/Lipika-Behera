@@ -41,7 +41,6 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
     *   Implemented and maintained comprehensive unit and integration tests using PHPUnit, significantly improving code quality and reducing production bugs by **[Quantifiable achievement, e.g., 30%]**.
     *   Managed code repositories using Git, performing regular code reviews, and ensuring adherence to coding standards and best practices across the team.
     *   Integrated critical third-party services and APIs, such as **[e.g., payment gateways like Stripe/PayPal, or CRM systems like Salesforce]**, enhancing core application functionality.
-    *   **[Add another specific PHP achievement or responsibility, e.g., "Successfully migrated legacy PHP code to a newer version (e.g., PHP 7.x to 8.x), improving security and performance by X%." or "Mentored 2 junior developers on Laravel best practices and project architecture."]**
 
 *   **Java Spring Boot Development (August 2024 – Present):**
     *   Developed and maintained robust back-end services and RESTful APIs using Java and Spring Boot for **[Specific project or module, e.g., internal microservices, new product features, or a new client platform]**.
@@ -54,7 +53,6 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
     *   Collaborated effectively with cross-functional teams (designers, front-end developers, product managers) to translate complex business requirements into clear technical specifications and deliver effective solutions on time.
     *   Actively participated in daily stand-ups, sprint planning, and retrospectives within an Agile/Scrum environment, contributing to continuous improvement cycles.
     *   Contributed significantly to architectural discussions and technology stack decisions for various projects, ensuring long-term scalability, maintainability, and security.
-    *   **[Add another relevant general responsibility, e.g., "Led the deployment process for key application modules, ensuring seamless releases with minimal downtime." or "Proactively identified and resolved performance bottlenecks, improving system responsiveness."]**
 
 ## Projects
 
