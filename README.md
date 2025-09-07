@@ -35,9 +35,9 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
 **August 2020 – Present**
 
 *   **PHP Development (August 2020 – August 2024):**
-    *   Spearheaded the development and maintenance of high-performance web applications using PHP and Laravel, contributing to **[Quantifiable achievement, e.g., a 15% improvement in page load times, or handling 20% more concurrent users]**.
+    *   Spearheaded the development and maintenance of high-performance web applications using PHP and Laravel,.
     *   Designed and implemented robust RESTful APIs to facilitate seamless data exchange, serving unique API endpoints for various applications.
-    *   Optimized database queries and schema designs for MySQL/PostgreSQL, resulting in **[ 20% reduction in query execution time or a 30% improvement in data retrieval speed]**.
+    *   Optimized database queries and schema designs for MySQL/PostgreSQL.
     *   Implemented and maintained comprehensive unit and integration tests using PHPUnit, significantly improving code quality and reducing production bugs by 30%.
     *   Managed code repositories using Git, performing regular code reviews, and ensuring adherence to coding standards and best practices across the team.
     *   Integrated critical third-party services and APIs, enhancing core application functionality.
@@ -45,7 +45,7 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
 *   **Java Spring Boot Development (August 2024 – Present):**
     *   Developed and maintained robust back-end services and RESTful APIs using Java and Spring Boot for **[internal microservices, new product features, or a new client platform]**.
     *   Implemented complex business logic and data persistence layers with Spring Data JPA and Hibernate for **[Specific purpose, managing new data models, integrating with existing enterprise systems]**.
-    *   Designed and managed scalable database schemas in **[Specific Database, e.g., MySQL/PostgreSQL]** for various application modules, ensuring data integrity and optimal performance.
+    *   Designed and managed scalable database schemas in **[MySQL/PostgreSQL]** for various application modules, ensuring data integrity and optimal performance.
     *   Utilized Maven for efficient project dependency management and build automation on Java-based projects.
     *   Ensured high code quality through rigorous unit testing with JUnit and mock objects for Spring Boot applications, contributing to a stable and reliable codebase.
 
@@ -63,7 +63,7 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
     *   Engineered and debugged Java Spring Boot-based modules, significantly improving system stability and functionality.
     *   Resolved production-critical bugs, ensuring uninterrupted operation of core HR and asset workflows.
     *   Enhanced existing features and implemented new functionalities, aligning the system with evolving business and compliance requirements.
-    *   Optimized MySQL queries and backend services, leading to a **[X]% improvement in performance and [Y]% reduction in downtime**.
+    *   Optimized MySQL queries and backend services.
     *   Integrated robust REST APIs to facilitate seamless and efficient communication between HRMS and Asset Management modules.
     *   Collaborated cross-functionally with QA and functional consultants, ensuring high-quality, error-free releases and enhanced user satisfaction.
 *   **Technologies:** Java, Spring Boot, MySQL, REST APIs, Git.
