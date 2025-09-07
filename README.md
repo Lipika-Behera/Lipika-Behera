@@ -56,16 +56,6 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
     *   Contributed significantly to architectural discussions and technology stack decisions for various projects, ensuring long-term scalability, maintainability, and security.
     *   **[Add another relevant general responsibility, e.g., "Led the deployment process for key application modules, ensuring seamless releases with minimal downtime." or "Proactively identified and resolved performance bottlenecks, improving system responsiveness."]**
 
----
-
-## Education
-
-### Bachelor of Technology | Biju Patnaik University of Technology, Bhubaneswar, Odisha
-
-*   **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Web Development, Object-Oriented Programming.
-
----
-
 ## Projects
 
 ### NERP – HRMS & Asset Management System
@@ -116,6 +106,14 @@ A highly motivated and results-oriented Senior Software Development Engineer wit
     *   Optimized MySQL queries and backend performance to efficiently handle high data volumes and user traffic.
     *   Implemented secure authentication and role-based access control to protect sensitive user data and ensure data integrity.
 *   **Technologies:** PHP, Laravel, MySQL, REST APIs.
+
+---
+
+## Education
+
+### Bachelor of Technology | Biju Patnaik University of Technology, Bhubaneswar, Odisha
+
+*   **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Web Development, Object-Oriented Programming.
 
 ---
 
